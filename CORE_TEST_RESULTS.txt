@@ -1,0 +1,12 @@
+Lab1/task2.py: PASS
+Lab2/task3.py: PASS
+Lab3/task1.py: PASS
+Lab3/task2.py: PASS
+Lab3/task3.py: PASS
+Lab4/search.py: PASS
+Lab4/task1.py: PASS
+Lab4/task2.py: PASS
+Lab4/task3.py: PASS
+Lab5/task2.py: PASS
+Lab5/task3.py: PASS
+Lab6/task2_chunks.py: PASS
